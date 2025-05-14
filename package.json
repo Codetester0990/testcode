@@ -1,0 +1,8 @@
+{
+  "name": "target-stock-scout",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build",
+    "start": "vercel start"
+  }
+}
